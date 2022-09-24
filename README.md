@@ -1,1 +1,2 @@
 # Stock Price Prediction using Monte Carlo
+Monte Carlo (MC) simulations are models that compile thousands to millions of different possibilities using a predetermined ‘random' (changing) variable to estimate the probability of complicated events. It takes a variable and assigns it a random value from a given range, then uses that variable to conduct calculations. After that, it iterates several times before averaging the results received after each iteration. This average answer offers us a rough estimate of our solution to the problem.

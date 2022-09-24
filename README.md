@@ -1,1 +1,1 @@
-# Stock_Price_Prediction_using_Monte_Carlo-
+# Stock Price Prediction using Monte Carlo
